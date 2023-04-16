@@ -1,0 +1,11 @@
+Build
+Library
+Logs
+obj
+Packages
+Temp
+.vsconfig
+Assembly-CSharp*
+*.meta
+*.sln
+.vs
